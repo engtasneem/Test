@@ -1,0 +1,6 @@
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\bin\Debug\ِAoDo App.exe.config
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\obj\Debug\ِAoDo App.csprojResolveAssemblyReference.cache
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\bin\Debug\ِAoDo App.exe
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\bin\Debug\ِAoDo App.pdb
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\obj\Debug\ِAoDo App.exe
+C:\Users\Elite\Desktop\ِAoDo App\ِAoDo App\obj\Debug\ِAoDo App.pdb
